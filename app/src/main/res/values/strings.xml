@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FCM</string>
+
+    <string name="msg_token_fmt">FCM Token: %1$s</string>
+
+
+    <string name="txt_titulo">Practicas FCM</string>
+    <string name="txt_mensaje">Esta es la practica en donde mandamos una notificacion desde FCM gracias que bonioto.</string>
+
+
+</resources>
